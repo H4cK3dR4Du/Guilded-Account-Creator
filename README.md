@@ -3,7 +3,7 @@ The best account generator for the guilded.gg platform. Includes Joiner and Huma
 
 ## 📹 Preview
 
-https://github.com/H4cK3dR4Du/Discord-Member-Booster/assets/118562174/04509c58-27b2-49f8-a389-f2927669e318
+![Guilded](https://github.com/H4cK3dR4Du/Discord-Member-Booster/assets/118562174/f1ddcb01-6346-4195-8653-1fb245238cf7)
 
 ## 🔥 Features
 - Fully Requests Based Generator
